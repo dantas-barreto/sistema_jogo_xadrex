@@ -1,1 +1,1 @@
-# sistema_jogo_xadrex
+# Projeto: Sistema de jogo de xadrex
